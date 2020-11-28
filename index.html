@@ -1,0 +1,44 @@
+---
+layout: default
+title: Home
+---
+
+<div class="section section-header-blog">
+    <div class="parallax filter filter-color-black">
+        <div class="image"
+            style="background-image:url('../assets/img/header.jpeg')">
+        </div>
+        <div class="container">
+            <div class="content">
+                <div class="title-area">
+                    <h1>{{site.title}}</h1>
+                    <h3>{{site.tagline}}</h3>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="section section-card-blog">
+    <div class="container">
+        <div class="title-area">
+            <h5 class="text-gray">Mis posts</h5>
+            <h2>Más Recientes</h2>
+            <div class="separator separator-danger">✻</div>
+        </div>
+
+        <div class="row">
+
+            {% for post in site.posts limit:6 %}
+                {% include postcard.html %}
+            {% endfor %}
+
+        </div>
+        <div class="row">
+            <div class="col-12 text-center">
+                <a href="/blog/" class="btn btn-danger btn-fill">Ver Más</a>
+            </div>
+        </div>
+    </div>
+</div>

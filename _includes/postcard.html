@@ -1,0 +1,22 @@
+<div class="col-md-4 has-scroll-reveal animation fadeInUp">
+    <div class="card card-blog">
+        {% if post.head_img %}
+        <a href="{{post.url | relative_url}}" class="header">
+            <img src="{{post.head_img | relative_url}}" class="image-header">
+        </a>
+        {% endif %}
+        <div class="content">
+            <div class="circle-black">
+                <div class="circle">
+                    <div class="date-wrapper">
+                        <span class="month">{{post.date | date: '%b'}}</span>
+                        <span class="date">{{post.date | date: '%d'}}</span>
+                    </div>
+                </div>
+            </div>
+            <a href="{{post.url | relative_url}}" class="card-title"><h3>{{post.title}}</h3></a>
+            <h6 class="card-category text-warning">{{post.category}}</h6>
+            <p class="text-description text-gray">{{post.excerpt}}</p>
+        </div>
+    </div>
+</div>

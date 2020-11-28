@@ -1,0 +1,198 @@
+
+{% include header.html %}
+<body>
+{% include navbar.html %}
+
+    <div class="section section-header-blog">
+        <div class="parallax filter filter-color-black">
+            <div class="image"
+                style="background-image:url('{{page.head_img | relative_url}}')">
+            </div>
+            <div class="container">
+                <div class="content">
+                    <h1>{{page.title}}</h1>
+                    <h3 class="subtitle">{{page.subtitle}}</h3>
+                    <div class="separator separator-danger">✻</div>
+                    <h3 class="subtitle">{{page.category}}</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="content-blog">
+                      {{page.content}}
+                    </div>
+                    <div class="separator separator-danger">✻</div>
+                </div>
+                <div class="col-md-3 col-md-offset-1 text-center">
+                    <h3 class="social-title">Author</h3>
+                    <div class="author">
+                        <div class="avatar avatar-danger">
+                            <img alt="Karem Clark" src="{{'/assets/img/karemblog_sm.jpg' | relative_url }}"/>
+                        </div>
+
+                        <div class="description text-center">
+                            <h3 class="big-text">Karem</h3>
+                            <p class="small-text">Mamá, Esposa, Mexicana, Lifter, Minimalista</p>
+                        </div>
+                        <div class="social-buttons">
+                            <a class="btn btn-social btn-instagram btn-simple" href="https://www.instagram.com/{{site.instagram_username}}" target="_blank">
+                                <i class="fa fa-instagram"></i>
+                            </a>
+                            <a class="btn btn-social btn-pinterest btn-simple" href="https://www.pinterest.com/{{site.pinterest_username}}" target="_blank">
+                                <i class="fa fa-pinterest-square"></i>
+                            </a>
+                            <a class="btn btn-social btn-twitter btn-simple" href="https://twitter.com/{{site.twitter_username}}" target="_blank">
+                                <i class="fa fa-twitter"></i>
+                            </a>  
+                        </div>
+                    </div>
+                    <h3 class="social-title">Categoría</h3>
+                    <span class="text-danger">{{page.category}}</span>
+                    <h3 class="social-title">Tags</h3>
+                    {% for tag in page.tags %}
+                    <span class="label label-fill label-danger">{{tag}}</span>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- <div class="section">
+        <div class="container">
+            <h3>Comments</h3>
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="media-area">
+                        <div class="media">
+                            <a href="#" class="avatar avatar-danger pull-left">
+                                <img class="media-object" src="../assets/img/faces/face_1.jpg">
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Tina Rosa</h3>
+                                <h5 class="text-muted pull-right">Mar 23, 09:42 AM</h5>
+                                <p>While doing this, I also came up with a name, bought the domain, found a suitable Wordpress theme I could strip to bare essentials, registered Twitter/Facebook and made a lander with an e-mail drop which I managed to get on BetaList and StartupList, two of my favorite tools to get early (possible) users.</p>
+                                <p>Don't forget, You're Awesome!</p>
+                                <div class="media-footer">
+                                    <button class="btn btn-info btn-simple">
+                                        <i class="fa fa-reply"></i>
+                                        Reply
+                                    </button>
+                                    <button class="btn btn-danger btn-simple pull-right">
+                                        <i class="fa fa-heart"></i>
+                                        123
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a href="#" class="avatar avatar-danger pull-left">
+                                <img class="media-object" src="../assets/img/faces/face_3.jpg">
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Creative Tim</h3>
+                                <h5 class="text-muted pull-right">Mar 23, 09:42 AM</h5>
+                                <p>Hello guys, nice to have you on the platform! There will be a lot of great stuff coming soon. We will keep you posted for the latest news.</p>
+                                <p>Don't forget, You're Awesome!</p>
+                                <div class="media-footer">
+                                    <button class="btn btn-info btn-simple">
+                                        <i class="fa fa-reply"></i>
+                                        Reply
+                                    </button>
+                                    <button class="btn btn-danger btn-simple pull-right">
+                                        <i class="fa fa-heart"></i>
+                                        243
+                                    </button>
+                                </div>
+                                <div class="media media-comment">
+                                    <a href="#" class="avatar avatar-danger pull-left">
+                                        <img class="media-object" src="../assets/img/faces/face_4.jpg">
+                                    </a>
+                                    <div class="media-body">
+                                        <h3 class="media-heading">Mike Tompson</h3>
+                                        <h5 class="text-muted pull-right">Mar 23, 09:42 AM</h5>
+                                        <p>If you’ve been around Dribbble, Behance, or any other design community lately, you’ve probably seen the recent trend of mixing flat design with big, beautiful diffused drop shadows. On the face of it, you might think, “That’s just a big drop shadow applied to a rectangle,” but you’d be sorely mistaken. </p>
+                                        <div class="media-footer">
+                                            <button class="btn btn-danger btn-simple pull-right">
+                                                <i class="fa fa-heart fa-heart-o"></i>
+                                                4
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <a href="#" class="avatar pull-left">
+                                <img class="media-object" src="../assets/img/faces/face_1.jpg">
+                            </a>
+                            <div class="media-body">
+                                <h3 class="media-heading">Creative Tim</h3>
+                                <h5 class="text-muted pull-right">Sep 17, 07:53 PM</h5>
+                                <p>If you’ve been around Dribbble, Behance, or any other design community lately, you’ve probably seen the recent trend of mixing flat design with big, beautiful diffused drop shadows. On the face of it, you might think, “That’s just a big drop shadow applied to a rectangle,” but you’d be sorely mistaken. </p>
+                                <p>This video will show you how to make the perfect diffused shadow for your trendiest designs.</p>
+
+                                <div class="media-footer">
+                                    <button class="btn btn-info btn-simple">
+                                        <i class="fa fa-reply"></i>
+                                        Reply
+                                    </button>
+                                    <button class="btn btn-danger btn-simple pull-right">
+                                        <i class="fa fa-heart-o"></i>
+                                        243
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="container">
+                <div class="contact-form">
+                    <form action="" method="post">
+                        <div class="row">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <textarea name="content" class="form-control" placeholder="Here you can write your nice text" rows="8"></textarea>
+                                </div>
+                                <button type="button" class="btn btn-danger btn-fill pull-right">Post Comment</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div> -->
+
+
+    <div class="section section-gray">
+        <div class="container">
+            <div class="title-area">
+                <h5 class="subtitle text-gray">Don't miss my</h5>
+                <h2>Recent Posts</h2>
+                <div class="separator separator-danger">✻</div>
+            </div>
+           <div class="row">
+            {% for post in site.posts limit:3 %}
+              {% include postcard.html %}   
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+
+{% include footer.html %}
+{% include scripts.html %}
+{% include analytics.html %}
+
+</body>
+</html>
