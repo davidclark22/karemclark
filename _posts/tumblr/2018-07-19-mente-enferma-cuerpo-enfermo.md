@@ -19,7 +19,7 @@ tags:
 - blogger
 - pregnant
 - fitmom
-tumblr_url: https://karemclark.tumblr.com/post/176077016501/mente-enferma-cuerpo-enfermo
+tumblr_url: https://karemclark.com/post/176077016501/mente-enferma-cuerpo-enfermo
 ---
 <figure data-orig-width="3240" data-orig-height="4500" class="tmblr-full"><img src="https://64.media.tumblr.com/a45c23fc5310d52ecd45521baf68b817/tumblr_inline_pc58al8PeH1t4qra9_540.jpg" alt="image" data-orig-width="3240" data-orig-height="4500"></figure>
 

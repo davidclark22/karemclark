@@ -17,7 +17,7 @@ tags:
 - fall
 - marshalls
 - stevemadden
-tumblr_url: https://karemclark.tumblr.com/post/131493691801/9-weeks-until-i-get-to-know-this-cute-little-boy
+tumblr_url: https://karemclark.com/post/131493691801/9-weeks-until-i-get-to-know-this-cute-little-boy
 ---
  ![](/tumblr_files/tumblr_nwh5enF1cV1u2lcj1o1_1280.jpg)  
 

@@ -3,7 +3,7 @@ layout: post
 title: Butternut Squash Baby Food Recipe!
 date: '2016-07-10T23:06:38-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/147221350596/butternut-squash-baby-food-recipe
+tumblr_url: https://karemclark.com/post/147221350596/butternut-squash-baby-food-recipe
 ---
 <figure class="tmblr-full" data-orig-height="1816" data-orig-width="2515"><img src="https://64.media.tumblr.com/5d30a1233f10475ea322764bf65ce8e7/tumblr_inline_oa4pupINpd1t4qra9_540.jpg" data-orig-height="1816" data-orig-width="2515"></figure>
 

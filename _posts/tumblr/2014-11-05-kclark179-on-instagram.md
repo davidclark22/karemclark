@@ -3,7 +3,7 @@ layout: post
 title: kclark179 on Instagram
 date: '2014-11-05T10:23:22-06:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/101849913261/kclark179-on-instagram
+tumblr_url: https://karemclark.com/post/101849913261/kclark179-on-instagram
 ---
 [kclark179 on Instagram](http://instagram.com/kclark179)  
 

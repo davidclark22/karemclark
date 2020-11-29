@@ -3,7 +3,7 @@ layout: post
 title: The Mini Stun Gun You Have to Have!
 date: '2016-09-15T11:25:08-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/150450473756/the-mini-stun-gun-you-have-to-have
+tumblr_url: https://karemclark.com/post/150450473756/the-mini-stun-gun-you-have-to-have
 ---
 <figure data-orig-width="3318" data-orig-height="2212" class="tmblr-full"><img src="https://64.media.tumblr.com/91138a3447f13cc02f519cb79ee57e2f/tumblr_inline_odk00b2kDj1t4qra9_540.jpg" alt="image" data-orig-width="3318" data-orig-height="2212"></figure>
 

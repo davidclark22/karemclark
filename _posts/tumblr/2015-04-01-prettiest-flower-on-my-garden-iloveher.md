@@ -13,7 +13,7 @@ tags:
 - hm
 - oldnavykids
 - ilovedressingher
-tumblr_url: https://karemclark.tumblr.com/post/115245945686/prettiest-flower-on-my-garden-iloveher
+tumblr_url: https://karemclark.com/post/115245945686/prettiest-flower-on-my-garden-iloveher
 ---
  ![](/tumblr_files/tumblr_nm5gunCwGx1u2lcj1o1_640.jpg)  
 

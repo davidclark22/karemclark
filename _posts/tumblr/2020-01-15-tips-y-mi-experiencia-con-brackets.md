@@ -13,7 +13,7 @@ tags:
 - feliz
 - sonrisa
 - dientes
-tumblr_url: https://karemclark.tumblr.com/post/190281641181/tips-y-mi-experiencia-con-brackets
+tumblr_url: https://karemclark.com/post/190281641181/tips-y-mi-experiencia-con-brackets
 ---
 <figure data-orig-width="2464" data-orig-height="2464" class="tmblr-full"><img src="https://64.media.tumblr.com/3414592598ccc4ff72300b6d26ca4c3c/37726163d66c8768-e2/s540x810/b7dc67ca623c9e787c744698b9ed596f10757222.jpg" alt="image" data-orig-width="2464" data-orig-height="2464"></figure>
 

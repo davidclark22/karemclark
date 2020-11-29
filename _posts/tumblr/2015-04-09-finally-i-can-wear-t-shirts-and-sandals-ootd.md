@@ -19,7 +19,7 @@ tags:
 - fashionblog
 - marshalls
 - inspiration
-tumblr_url: https://karemclark.tumblr.com/post/115962882621/finally-i-can-wear-t-shirts-and-sandals-ootd
+tumblr_url: https://karemclark.com/post/115962882621/finally-i-can-wear-t-shirts-and-sandals-ootd
 ---
  ![](/tumblr_files/tumblr_nmk1vbqQGz1u2lcj1o1_640.jpg)  
 

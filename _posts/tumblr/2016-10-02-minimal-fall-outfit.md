@@ -14,13 +14,13 @@ tags:
 - ootd
 - street style
 - style
-tumblr_url: https://karemclark.tumblr.com/post/151259491926/minimal-fall-outfit
+tumblr_url: https://karemclark.com/post/151259491926/minimal-fall-outfit
 ---
 <figure data-orig-width="2572" data-orig-height="1923" class="tmblr-full"><img src="https://64.media.tumblr.com/76222bda9a77fa770fbab6f3673ed8c8/tumblr_inline_oefygaCmg51t4qra9_540.jpg" alt="image" data-orig-width="2572" data-orig-height="1923"></figure>
 
 As a mom is really hard for me to think about getting dress, because when I go out I usually have to carry a baby or a little girl and usually my first thought is comfort first. But mixing the right colors you don’t have to sacrifice style &nbsp;for comfort. Dressing up it doesn’t have to mean high heels and designer clothing,it just means you can do better than sweats and yoga pants. &nbsp;For example this outfit is the most simple and minimal I can think of.
 
-This sweater is one of the oldest sweaters I own, but I absolutely love it because the color and material are just perfect to mix it up with other pieces, it is so versatile. &nbsp;I can show you what I’m talking about, I have a post where I talk about Neutrals and shopping smart( you can find it [HERE](http://karemclark.com/post/132643727901/talking-neutrals-and-shopping-smart)), in this post I dressed it up for a family photo session with a navy blue skirt and it look fancier than what it looks in this outfit. &nbsp;Today, I simply paired it with dark blue jeans and cute shoes and I looked like I put a lot of thought into this outfit, but the reality is that I didn’t. The nice warm ivory color of the sweater mixed with a dark color makes it stand out and looked like you tried. So to make your life easier get simple, neutral and minimal tops, because you can always makes them look different with a necklace or a scarf, etc.
+This sweater is one of the oldest sweaters I own, but I absolutely love it because the color and material are just perfect to mix it up with other pieces, it is so versatile. &nbsp;I can show you what I’m talking about, I have a post where I talk about Neutrals and shopping smart( you can find it [HERE](http://karemclark.com/post/2015-11-05-talking-neutrals-and-shopping-smart/)), in this post I dressed it up for a family photo session with a navy blue skirt and it look fancier than what it looks in this outfit. &nbsp;Today, I simply paired it with dark blue jeans and cute shoes and I looked like I put a lot of thought into this outfit, but the reality is that I didn’t. The nice warm ivory color of the sweater mixed with a dark color makes it stand out and looked like you tried. So to make your life easier get simple, neutral and minimal tops, because you can always makes them look different with a necklace or a scarf, etc.
 
 When I choose pants, I’m a big fan of dark colors. &nbsp;First because they are slimming and second because they look dressier. During the day you can wear them with sandals, but for a dinner just switch it to shoeties and ta tan!
 

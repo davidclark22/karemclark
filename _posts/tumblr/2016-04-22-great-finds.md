@@ -3,7 +3,7 @@ layout: post
 title: Great Finds!
 date: '2016-04-22T15:00:58-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/143230094106/great-finds
+tumblr_url: https://karemclark.com/post/143230094106/great-finds
 ---
 If you follow my blog you might notice that my favorite color for winter and fall is Burgundy. &nbsp;But when spring gets here, &nbsp;I’m all about Blush. &nbsp;Three years ago I got this blouse at HM, &nbsp;and I felt in love with the color. &nbsp;Since then it was very hard to find pieces of this color. &nbsp;Last year Blush, &nbsp;became super popular. &nbsp;I waited patiently for things to go on sale, &nbsp;since I hardly purchase things for the full price. &nbsp;One day I was determined to find shoes with bows, I went to DSW and after searching the clearance for a while, I found this Franco Sarto shoes. They were 70% off. &nbsp;It was love at first sight, they had both things I was looking for, &nbsp;the bows and the right color. &nbsp;Another day I walked into Ross after dropping my daughter at ballet, I was looking for brown sandals. &nbsp;I found very cute ones, &nbsp;but I also found this Valentino inspired flats. &nbsp;They are of course not the real deal, &nbsp;but I would never spend that much for shoes (at least not now :D). &nbsp;They were only $14 dollars and they are so cute. It gaves my outfits a very girly look!   
 I have learned from shopping that if you know what you like and you know what you’re looking for, &nbsp;you always end up with things that you can use for a very long time! &nbsp;Let me know if you have some shopping tips you want to share! &nbsp;Xoxo

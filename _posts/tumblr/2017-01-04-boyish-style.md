@@ -18,7 +18,7 @@ tags:
 - winter
 - ootd
 - outfit
-tumblr_url: https://karemclark.tumblr.com/post/155422589216/boyish-style
+tumblr_url: https://karemclark.com/post/155422589216/boyish-style
 ---
 <figure class="tmblr-full" data-orig-height="1968" data-orig-width="2257"><img src="https://64.media.tumblr.com/a51585db82a91caa52aa094c6f3eb045/tumblr_inline_ojaj51nHiT1t4qra9_540.jpg" data-orig-height="1968" data-orig-width="2257"></figure>
 

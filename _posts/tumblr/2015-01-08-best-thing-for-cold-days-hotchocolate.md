@@ -13,7 +13,7 @@ tags:
 - stevemadden
 - ootd
 - hotchocolate
-tumblr_url: https://karemclark.tumblr.com/post/107541422836/best-thing-for-cold-days-hotchocolate
+tumblr_url: https://karemclark.com/post/107541422836/best-thing-for-cold-days-hotchocolate
 ---
  ![](/tumblr_files/tumblr_nhvsidOwVA1u2lcj1o1_640.jpg)  
 

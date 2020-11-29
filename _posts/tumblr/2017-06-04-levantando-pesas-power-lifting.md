@@ -3,7 +3,7 @@ layout: post
 title: Levantando Pesas (Power Lifting)
 date: '2017-06-04T22:23:53-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/161452307056/levantando-pesas-power-lifting
+tumblr_url: https://karemclark.com/post/161452307056/levantando-pesas-power-lifting
 ---
 <figure data-orig-width="1620" data-orig-height="2250" class="tmblr-full"><img src="https://64.media.tumblr.com/21024b560ef3d5deaf8481118e48e240/tumblr_inline_or21esRamf1t4qra9_540.jpg" alt="image" data-orig-width="1620" data-orig-height="2250"></figure>
 

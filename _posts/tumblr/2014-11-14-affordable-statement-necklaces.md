@@ -7,7 +7,7 @@ tags:
 - fashion
 - statementnecklace
 - jewelry
-tumblr_url: https://karemclark.tumblr.com/post/102593715121/affordable-statement-necklaces
+tumblr_url: https://karemclark.com/post/102593715121/affordable-statement-necklaces
 ---
 There is one trend that I love and I don’t think it’s going away anytime soon. &nbsp;I’m talking about the statement necklaces.&nbsp; They are so fun and you can wear them with almost anything.&nbsp; Sometimes it’s hard to find pretty necklaces for a good price. &nbsp;Personally I love [JCrew](https://www.jcrew.com/womens_category/jewelry/necklaces.jsp)’s and [Geranium boutique](http://geraniumboutique.com/index.html)’s pieces.&nbsp; These stores have the cutest ones for good prices.&nbsp; Yesterday, I went to Walmart and as I was walking to the registers to check out, I noticed a good selection of statement necklaces! I said to myself, “really?!” I was very surprise to see this, Walmart’s jewelry is usually very cheap looking, but I’m telling you, these necklaces were really cute for only $10!&nbsp; You should go and check them out! I had to snapped some pictures to share, so let me know what you think.<figure class="tmblr-full" data-orig-height="375" data-orig-width="500" data-orig-src="https://64.media.tumblr.com/b63c67920f5f267901c3e0d1a475593a/tumblr_inline_nf0mj5srKG1t4qra9.jpg"><img alt="image" src="https://64.media.tumblr.com/8388a734c49abf2eb49b13c2e27c26b7/tumblr_inline_pl8ly68z961t4qra9_540.jpg" data-orig-height="375" data-orig-width="500" data-orig-src="https://64.media.tumblr.com/b63c67920f5f267901c3e0d1a475593a/tumblr_inline_nf0mj5srKG1t4qra9.jpg"></figure>
 

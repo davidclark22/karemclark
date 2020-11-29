@@ -3,7 +3,7 @@ layout: post
 title: La Lectura
 date: '2020-05-08T16:38:31-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/617583908460036096/la-lectura
+tumblr_url: https://karemclark.com/post/617583908460036096/la-lectura
 ---
 <figure class="tmblr-full" data-orig-height="5104" data-orig-width="7952"><img src="https://64.media.tumblr.com/715190eb173a04440487a5deb3666af2/8ecf1a9aceae6a6e-42/s540x810/9aa23691f3b737815484db297d292e659567f272.jpg" data-orig-height="5104" data-orig-width="7952"></figure>
 

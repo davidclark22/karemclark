@@ -21,7 +21,7 @@ tags:
 - fashionblogger
 - fashionblogstyle
 - fashionblogpost
-tumblr_url: https://karemclark.tumblr.com/post/168577101796/black-coat-and-sport-vibes
+tumblr_url: https://karemclark.com/post/168577101796/black-coat-and-sport-vibes
 ---
 <figure data-orig-width="2448" data-orig-height="3264" class="tmblr-full"><img src="https://64.media.tumblr.com/65e5d242e9818f8dad84542e51e7c40b/tumblr_inline_p10jr4fpKo1t4qra9_540.jpg" alt="image" data-orig-width="2448" data-orig-height="3264"></figure>
 

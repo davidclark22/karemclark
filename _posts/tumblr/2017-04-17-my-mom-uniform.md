@@ -3,7 +3,7 @@ layout: post
 title: My Mom Uniform
 date: '2017-04-17T22:58:37-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/159703577746/my-mom-uniform
+tumblr_url: https://karemclark.com/post/159703577746/my-mom-uniform
 ---
 <figure data-orig-width="540" data-orig-height="468" data-orig-src="https://64.media.tumblr.com/64913d5a325fc1ac8d77c308e569ba4a/tumblr_inline_ool6s2Y3nN1t4qra9_540.jpg" class="tmblr-full"><img src="https://64.media.tumblr.com/1cfb105945ce0266eca367b515451edb/tumblr_inline_oomc7r2V4t1t4qra9_540.jpg" alt="image" data-orig-width="540" data-orig-height="468" data-orig-src="https://64.media.tumblr.com/64913d5a325fc1ac8d77c308e569ba4a/tumblr_inline_ool6s2Y3nN1t4qra9_540.jpg"></figure>
 

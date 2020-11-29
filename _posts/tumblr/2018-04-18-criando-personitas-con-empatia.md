@@ -5,7 +5,7 @@ date: '2018-04-18T17:10:55-05:00'
 tags:
 - motherhood momlife momblog life momstyle lifestyle fun mamámaternidad diversion
   vida felicidad happiness happy feliz simple simplelifelove a
-tumblr_url: https://karemclark.tumblr.com/post/173074909176/criando-personitas-con-empatia
+tumblr_url: https://karemclark.com/post/173074909176/criando-personitas-con-empatia
 ---
 <figure class="tmblr-full" data-orig-height="3960" data-orig-width="2640"><img src="https://64.media.tumblr.com/b738a2642a5c1b068ea52d5bdfe2192a/tumblr_inline_p7eie86hdB1t4qra9_540.jpg" data-orig-height="3960" data-orig-width="2640"></figure>
 

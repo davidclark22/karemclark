@@ -5,7 +5,7 @@ date: '2015-07-10T13:25:08-05:00'
 tags:
 - imissthemsomuch
 - mystlfamily
-tumblr_url: https://karemclark.tumblr.com/post/123741801781/not-having-family-in-a-city-makes-you-really
+tumblr_url: https://karemclark.com/post/123741801781/not-having-family-in-a-city-makes-you-really
 ---
  ![](/tumblr_files/tumblr_nrab5wiVX71u2lcj1o1_1280.jpg)  
 

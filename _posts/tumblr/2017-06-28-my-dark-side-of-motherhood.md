@@ -7,7 +7,7 @@ tags:
 - momlife momstyle momproblems lifeofamom depression inspiration
 - love
 - mom
-tumblr_url: https://karemclark.tumblr.com/post/162383526541/my-dark-side-of-motherhood
+tumblr_url: https://karemclark.com/post/162383526541/my-dark-side-of-motherhood
 ---
 <figure class="tmblr-full" data-orig-height="486" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/345ef3d57b5ce821c2707fe82534bb5b/tumblr_inline_osamh2hTSk1t4qra9_540.jpg"><img src="https://64.media.tumblr.com/03918a156ab132cb1114f0c356b5255f/tumblr_inline_osamnasctN1t4qra9_540.jpg" data-orig-height="486" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/345ef3d57b5ce821c2707fe82534bb5b/tumblr_inline_osamh2hTSk1t4qra9_540.jpg"></figure>
 

@@ -13,7 +13,7 @@ tags:
 - hm
 - hat
 - carters
-tumblr_url: https://karemclark.tumblr.com/post/114140190396/i-cant-wait-to-post-our-shoot-on-the-blog
+tumblr_url: https://karemclark.com/post/114140190396/i-cant-wait-to-post-our-shoot-on-the-blog
 ---
  ![](/tumblr_files/tumblr_nlis62bblv1u2lcj1o1_640.jpg)  
 

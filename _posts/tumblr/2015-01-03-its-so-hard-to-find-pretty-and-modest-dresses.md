@@ -8,7 +8,7 @@ tags:
 - ilovesales
 - modestdress
 - gap
-tumblr_url: https://karemclark.tumblr.com/post/107046678691/its-so-hard-to-find-pretty-and-modest-dresses
+tumblr_url: https://karemclark.com/post/107046678691/its-so-hard-to-find-pretty-and-modest-dresses
 ---
  ![](/tumblr_files/tumblr_nhmi8dKJbu1u2lcj1o1_640.jpg)  
 

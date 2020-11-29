@@ -9,7 +9,7 @@ tags:
 - soexcited
 - ifeelcool
 - realartist
-tumblr_url: https://karemclark.tumblr.com/post/123578100296/oh-my-gosh-elleking-liked-our-video-thats
+tumblr_url: https://karemclark.com/post/123578100296/oh-my-gosh-elleking-liked-our-video-thats
 ---
  ![](/tumblr_files/tumblr_nr6slcS7cT1u2lcj1o1_540.jpg)  
 

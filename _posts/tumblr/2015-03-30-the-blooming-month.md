@@ -15,7 +15,7 @@ tags:
 - outfitidea
 - tips
 - shirtdess
-tumblr_url: https://karemclark.tumblr.com/post/115052403711/the-blooming-month
+tumblr_url: https://karemclark.com/post/115052403711/the-blooming-month
 ---
 <figure data-orig-height="3648" data-orig-width="5472"><img src="https://64.media.tumblr.com/13f17ed95f31852ed3d5c20da0527111/tumblr_inline_nm1ib6zxKI1t4qra9_500.jpg" data-orig-height="3648" data-orig-width="5472"></figure><figure data-orig-height="4901" data-orig-width="3267"><img src="https://64.media.tumblr.com/0e5c8f6426de6116ce0781382968521f/tumblr_inline_nm1ia8pKv71t4qra9_500.jpg" data-orig-height="4901" data-orig-width="3267"></figure><figure data-orig-height="4637" data-orig-width="3091"><img src="https://64.media.tumblr.com/30284264fde2abe1d95bd09e219e3042/tumblr_inline_nm1i2jkW691t4qra9_500.jpg" data-orig-height="4637" data-orig-width="3091"></figure><figure data-orig-height="5472" data-orig-width="3648"><img src="https://64.media.tumblr.com/1f97409dcafd66a885232d01a091a66d/tumblr_inline_nm1il0QOQx1t4qra9_500.jpg" data-orig-height="5472" data-orig-width="3648"></figure><figure data-orig-height="5472" data-orig-width="3648"><img src="https://64.media.tumblr.com/834a7698d9f84d87a405b9b62a583c33/tumblr_inline_nm1i1z6TjA1t4qra9_500.jpg" data-orig-height="5472" data-orig-width="3648"></figure><figure data-orig-height="5472" data-orig-width="3648"><img src="https://64.media.tumblr.com/ca77dfc03674f25fc3d15cda27527544/tumblr_inline_nm1i1h7wkb1t4qra9_500.jpg" data-orig-height="5472" data-orig-width="3648"></figure><figure data-orig-height="4872" data-orig-width="3248"><img src="https://64.media.tumblr.com/c79c4cff60868161581d2b7b181d7bd1/tumblr_inline_nm1i0plNeH1t4qra9_500.jpg" data-orig-height="4872" data-orig-width="3248"></figure>
 

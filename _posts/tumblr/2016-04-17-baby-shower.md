@@ -3,7 +3,7 @@ layout: post
 title: Baby Shower
 date: '2016-04-17T23:39:41-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/142991216081/baby-shower
+tumblr_url: https://karemclark.com/post/142991216081/baby-shower
 ---
 <figure class="tmblr-full" data-orig-height="3456" data-orig-width="5184"><img src="https://64.media.tumblr.com/77a1d845f654eaa8296364aa00279bc6/tumblr_inline_o5tb0nyXzs1t4qra9_540.jpg" data-orig-height="3456" data-orig-width="5184"></figure>
 

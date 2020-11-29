@@ -12,7 +12,7 @@ tags:
 - style
 - lifestyle
 - mylife
-tumblr_url: https://karemclark.tumblr.com/post/127813886411/a-day-in-the-park
+tumblr_url: https://karemclark.com/post/127813886411/a-day-in-the-park
 ---
 Being a mom is one of the best things it had happened to me. &nbsp;I love spending time with my daughter; I love seeing her laugh and enjoy her time with me. &nbsp;Sometimes is hard to find the energy to play with her, but I try really hard to do so because I know those moments are not coming back when they had pass. One of my favorite things to do is taking her to the park and chasing her around. &nbsp; Of course she would rather me push her on the swing the whole time! But, that’s just too boring sometimes. &nbsp;
 

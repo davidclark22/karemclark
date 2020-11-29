@@ -21,7 +21,7 @@ tags:
 - maternitysession
 - minimal
 - fallseason
-tumblr_url: https://karemclark.tumblr.com/post/132825111511/a-sneak-peek-of-our-maternity-photo-session-with
+tumblr_url: https://karemclark.com/post/132825111511/a-sneak-peek-of-our-maternity-photo-session-with
 ---
  ![](/tumblr_files/tumblr_nxin1xdQK41u2lcj1o1_1280.jpg)  
 

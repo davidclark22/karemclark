@@ -22,7 +22,7 @@ tags:
 - photosession
 - fallcolors
 - inspiration
-tumblr_url: https://karemclark.tumblr.com/post/132430193711/maternity-photo-session-on-wednesday-here-is-a
+tumblr_url: https://karemclark.com/post/132430193711/maternity-photo-session-on-wednesday-here-is-a
 ---
  ![](/tumblr_files/tumblr_nx7ju3XZux1u2lcj1o1_1280.jpg)  
 

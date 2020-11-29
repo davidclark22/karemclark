@@ -3,7 +3,7 @@ layout: post
 title: Mi Lado Obscuro de la Maternidad
 date: '2017-09-13T13:17:43-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/165301827896/mi-lado-obscuro-de-la-maternidad
+tumblr_url: https://karemclark.com/post/165301827896/mi-lado-obscuro-de-la-maternidad
 ---
 <figure data-orig-width="2209" data-orig-height="1988" class="tmblr-full"><img src="https://64.media.tumblr.com/04a8662841af527ceec4bd99618441af/tumblr_inline_ow8ddvE0n61t4qra9_540.jpg" alt="image" data-orig-width="2209" data-orig-height="1988"></figure>
 

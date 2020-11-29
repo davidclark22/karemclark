@@ -3,7 +3,7 @@ layout: post
 title: De víctimas y villanos a una mejor comunicación.
 date: '2018-02-07T11:50:15-06:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/170617123636/de-v%C3%ADctimas-y-villanos-a-una-mejor-comunicaci%C3%B3n
+tumblr_url: https://karemclark.com/post/170617123636/de-v%C3%ADctimas-y-villanos-a-una-mejor-comunicaci%C3%B3n
 ---
 <figure data-orig-width="540" data-orig-height="360" class="tmblr-full" data-orig-src="https://64.media.tumblr.com/58b8b2a5dbd28c9d964ead1a31aea9e1/tumblr_inline_p3sjzpUZS11t4qra9_540.jpg"><img src="https://64.media.tumblr.com/bd199255704c496b3fe5babb50916c31/tumblr_inline_p3t39dsLGg1t4qra9_540.jpg" data-orig-width="540" data-orig-height="360" data-orig-src="https://64.media.tumblr.com/58b8b2a5dbd28c9d964ead1a31aea9e1/tumblr_inline_p3sjzpUZS11t4qra9_540.jpg"></figure>
 

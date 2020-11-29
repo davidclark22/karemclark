@@ -11,7 +11,7 @@ tags:
 - summer
 - dress
 - hat
-tumblr_url: https://karemclark.tumblr.com/post/122177293406/summer-dress
+tumblr_url: https://karemclark.com/post/122177293406/summer-dress
 ---
 The last couple of months have been super crazy and I haven’t had the time to post on the blog. &nbsp;Today I wanted to post about this dress, because is one of my very favorite. I found it at Gap on sale for only ten dollars! I love those types of finds. &nbsp;I the style because is so comfortable and girly. This is also a very versatile dress. &nbsp;I wore it on the winter with tights, oxford shoes, big scarf and a brown coat. &nbsp;Today I wanted to show you how I like to wear it during the summer. &nbsp;I paired it with brown sandals, gold necklace and my favorite hat from H&M. &nbsp; I love buying things I can wear year around. &nbsp;I would love to now what are some of your favorite things you wear during the summer!
 

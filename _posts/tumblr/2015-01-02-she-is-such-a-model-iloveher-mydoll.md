@@ -12,7 +12,7 @@ tags:
 - hm
 - mybiggirl
 - babygap
-tumblr_url: https://karemclark.tumblr.com/post/106930744431/she-is-such-a-model-iloveher-mydoll
+tumblr_url: https://karemclark.com/post/106930744431/she-is-such-a-model-iloveher-mydoll
 ---
  ![](/tumblr_files/tumblr_nhkgiis4p81u2lcj1o1_640.jpg)  
 

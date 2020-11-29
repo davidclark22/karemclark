@@ -12,7 +12,7 @@ tags:
 - outfitinspiration
 - preppy
 - boatshoes
-tumblr_url: https://karemclark.tumblr.com/post/130288647966/fall-outfit-inspiration
+tumblr_url: https://karemclark.com/post/130288647966/fall-outfit-inspiration
 ---
 Fall season is my favorite season of all times! And of course I love having pictures taken of our family. This was our second session as a family and I had lots of fun picking the outfits! &nbsp;For pictures I definitely like to use solid colors and mainly for two reasons. &nbsp;First, I like neutrals and soft patterns because that way the pictures won’t look too busy with patterns, crazy colors and the background, they are also easy to match with the rest of the family. &nbsp;And second, because when you hang your pictures on the walls, they would go with any decoration you have at your home.
 

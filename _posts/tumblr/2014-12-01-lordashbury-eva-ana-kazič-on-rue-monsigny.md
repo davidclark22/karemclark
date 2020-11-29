@@ -3,7 +3,7 @@ layout: post
 title: lordashbury eva ana kazič on rue monsigny
 date: '2014-12-01T13:18:00-06:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/104091325731/lordashbury-eva-ana-kazi%C4%8D-on-rue-monsigny
+tumblr_url: https://karemclark.com/post/104091325731/lordashbury-eva-ana-kazi%C4%8D-on-rue-monsigny
 ---
  ![](/tumblr_files/tumblr_mxz492x84r1s94dsko1_1280.jpg)  
 

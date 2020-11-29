@@ -14,7 +14,7 @@ tags:
 - style
 - inspiration
 - ootd
-tumblr_url: https://karemclark.tumblr.com/post/149854820966/maternity-photo-sesion
+tumblr_url: https://karemclark.com/post/149854820966/maternity-photo-sesion
 ---
 <figure data-orig-width="2640" data-orig-height="3960" class="tmblr-full"><img src="https://64.media.tumblr.com/86cea9205ce176fa2925739a2fa13fcc/tumblr_inline_ocwchrT3hr1t4qra9_540.jpg" alt="image" data-orig-width="2640" data-orig-height="3960"></figure>
 

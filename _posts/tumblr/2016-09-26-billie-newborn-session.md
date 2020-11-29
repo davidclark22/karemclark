@@ -3,7 +3,7 @@ layout: post
 title: Billie Newborn Session
 date: '2016-09-26T13:51:28-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/150971750061/billie-newborn-session
+tumblr_url: https://karemclark.com/post/150971750061/billie-newborn-session
 ---
 <figure class="tmblr-full" data-orig-height="2640" data-orig-width="3960"><img src="https://64.media.tumblr.com/dcdfd0046a94ad174722847eb0d3335b/tumblr_inline_oe4jypOVss1t4qra9_540.jpg" data-orig-height="2640" data-orig-width="3960"></figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: Faux Leather Skirt
 date: '2016-09-19T11:27:07-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/150639536906/faux-leather-skirt
+tumblr_url: https://karemclark.com/post/150639536906/faux-leather-skirt
 ---
 <figure data-orig-width="540" data-orig-height="538" data-orig-src="https://64.media.tumblr.com/d81a95b5b43e32b8a57974ef86e15e40/tumblr_inline_odreghELey1t4qra9_540.jpg" class="tmblr-full"><img src="https://64.media.tumblr.com/b66b60cadba1b77339b9f0e329073645/tumblr_inline_odrtx1a3pb1t4qra9_540.jpg" alt="image" data-orig-width="540" data-orig-height="538" data-orig-src="https://64.media.tumblr.com/d81a95b5b43e32b8a57974ef86e15e40/tumblr_inline_odreghELey1t4qra9_540.jpg"></figure>
 

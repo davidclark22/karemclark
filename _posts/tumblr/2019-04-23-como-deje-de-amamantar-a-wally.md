@@ -15,7 +15,7 @@ tags:
 - blogger
 - momblogger
 - momblog
-tumblr_url: https://karemclark.tumblr.com/post/184393633026/como-deje-de-amamantar-a-wally
+tumblr_url: https://karemclark.com/post/184393633026/como-deje-de-amamantar-a-wally
 ---
 <figure data-orig-width="5184" data-orig-height="3456" class="tmblr-full"><img src="https://64.media.tumblr.com/d2eaa05700f408a9266e7fe55e9ca0f9/tumblr_inline_pqfek5OokV1t4qra9_1280.jpg" alt="image" data-orig-width="5184" data-orig-height="3456"></figure>
 

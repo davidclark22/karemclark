@@ -3,7 +3,7 @@ layout: post
 title: Comfortable with Style.
 date: '2016-03-28T16:29:20-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/141859727841/comfortable-with-style
+tumblr_url: https://karemclark.com/post/141859727841/comfortable-with-style
 ---
 <figure data-orig-width="1819" data-orig-height="2085" class="tmblr-full"><img src="https://64.media.tumblr.com/6cc5c8100400fd26c2d0e399cdef4613/tumblr_inline_o4rq8d5jiC1t4qra9_540.jpg" alt="image" data-orig-width="1819" data-orig-height="2085"></figure>
 

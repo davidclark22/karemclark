@@ -22,7 +22,7 @@ tags:
 - fashionblogger
 - outfitinspiration
 - inspiration
-tumblr_url: https://karemclark.tumblr.com/post/116004741066/next-post-is-coming-soon-i-cant-wait-to-talk
+tumblr_url: https://karemclark.com/post/116004741066/next-post-is-coming-soon-i-cant-wait-to-talk
 ---
  ![](/tumblr_files/tumblr_nmkr57jomc1u2lcj1o1_640.jpg)  
 

@@ -8,7 +8,7 @@ tags:
 - hoy
 - tips
 - trategie
-tumblr_url: https://karemclark.tumblr.com/post/174438857636/importantes-tips-de-seguridad
+tumblr_url: https://karemclark.com/post/174438857636/importantes-tips-de-seguridad
 ---
 # Importantes Tips de Seguridad
 <figure class="tmblr-full" data-orig-height="1536" data-orig-width="1024"><img src="https://64.media.tumblr.com/526cfc57ce866bb0018cd29d574e5dfa/tumblr_inline_p9lq5pH6711t4qra9_1280.jpg" data-orig-height="1536" data-orig-width="1024"></figure>

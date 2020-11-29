@@ -18,7 +18,7 @@ tags:
 - mom
 - momstyle
 - momblogger
-tumblr_url: https://karemclark.tumblr.com/post/150317110816/talking-basics
+tumblr_url: https://karemclark.com/post/150317110816/talking-basics
 ---
 <figure data-orig-width="540" data-orig-height="693" data-orig-src="https://64.media.tumblr.com/aafd71127cc9fc80ed2bc988af544308/tumblr_inline_odein6BALF1t4qra9_540.jpg" class="tmblr-full"><img src="https://64.media.tumblr.com/1189e62c1f94368b1f654572e16e941f/tumblr_inline_odfc8oJou71t4qra9_540.jpg" alt="image" data-orig-width="540" data-orig-height="693" data-orig-src="https://64.media.tumblr.com/aafd71127cc9fc80ed2bc988af544308/tumblr_inline_odein6BALF1t4qra9_540.jpg"></figure>
 

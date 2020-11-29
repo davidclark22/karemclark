@@ -9,7 +9,7 @@ tags:
 - fbf
 - summertime
 - fashionblog
-tumblr_url: https://karemclark.tumblr.com/post/108980057536/missing-summer-picture-by-the-awesome
+tumblr_url: https://karemclark.com/post/108980057536/missing-summer-picture-by-the-awesome
 ---
  ![](/tumblr_files/tumblr_nio1s3wotW1u2lcj1o1_640.jpg)  
 

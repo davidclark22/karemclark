@@ -17,7 +17,7 @@ tags:
 - blog posts
 - blog
 - lifestyle
-tumblr_url: https://karemclark.tumblr.com/post/158381139106/my-path-to-a-healthier-life
+tumblr_url: https://karemclark.com/post/158381139106/my-path-to-a-healthier-life
 ---
 <figure class="tmblr-full" data-orig-height="2093" data-orig-width="2925"><img src="https://64.media.tumblr.com/c720c4f7c653c7bdc6883304b5ba3538/tumblr_inline_omsen6p3xG1t4qra9_540.jpg" data-orig-height="2093" data-orig-width="2925"></figure>
 

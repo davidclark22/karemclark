@@ -18,7 +18,7 @@ tags:
 - habits
 - results
 - resultados
-tumblr_url: https://karemclark.tumblr.com/post/618735139113009152/como-empezar-a-entrenar-y-crear-un-habito
+tumblr_url: https://karemclark.com/post/618735139113009152/como-empezar-a-entrenar-y-crear-un-habito
 ---
 <figure class="tmblr-full" data-orig-height="1564" data-orig-width="1564"><img src="https://64.media.tumblr.com/d6c36b81b18ef58469c3964c1b747d2f/cfa7ca0658e7d919-ce/s540x810/4e5c5d2af93faf21f1cb1b52e2e8db27ceb1bb41.jpg" data-orig-height="1564" data-orig-width="1564"></figure>
 

@@ -12,7 +12,7 @@ tags:
 - stl
 - forestpark
 - fallseason
-tumblr_url: https://karemclark.tumblr.com/post/101852017836/maternity-photo-session
+tumblr_url: https://karemclark.com/post/101852017836/maternity-photo-session
 ---
 _If you are looking for some ideas for what to wear for maternity pictures, here are a few!&nbsp;_
 

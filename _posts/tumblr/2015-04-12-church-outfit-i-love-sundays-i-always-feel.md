@@ -20,7 +20,7 @@ tags:
 - fashionblog
 - fashionblogger
 - inspiration
-tumblr_url: https://karemclark.tumblr.com/post/116219732586/church-outfit-i-love-sundays-i-always-feel
+tumblr_url: https://karemclark.com/post/116219732586/church-outfit-i-love-sundays-i-always-feel
 ---
  ![](/tumblr_files/tumblr_nmpg36kaeX1u2lcj1o1_640.jpg)  
 

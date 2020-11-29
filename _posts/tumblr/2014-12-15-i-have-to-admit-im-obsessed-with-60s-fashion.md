@@ -7,7 +7,7 @@ tags:
 - fashionblog
 - hm
 - 60sinspired
-tumblr_url: https://karemclark.tumblr.com/post/105250783891/i-have-to-admit-im-obsessed-with-60s-fashion
+tumblr_url: https://karemclark.com/post/105250783891/i-have-to-admit-im-obsessed-with-60s-fashion
 ---
  ![](/tumblr_files/tumblr_ngm3afsOa41u2lcj1o1_1280.jpg)  
 

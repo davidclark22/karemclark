@@ -7,7 +7,7 @@ tags:
 - iloveher
 - mybiggirl
 - dallas
-tumblr_url: https://karemclark.tumblr.com/post/124671174051/its-so-hot-outside-but-that-doesnt-keep-us
+tumblr_url: https://karemclark.com/post/124671174051/its-so-hot-outside-but-that-doesnt-keep-us
 ---
  ![](/tumblr_files/tumblr_nruj4jrIPa1u2lcj1o1_1280.jpg)  
 

@@ -16,7 +16,7 @@ tags:
 - vincecamuto
 - old navy
 - fashionkid
-tumblr_url: https://karemclark.tumblr.com/post/132643727901/talking-neutrals-and-shopping-smart
+tumblr_url: https://karemclark.com/post/132643727901/talking-neutrals-and-shopping-smart
 ---
 <figure class="tmblr-full" data-orig-height="1536" data-orig-width="1024"><img src="https://64.media.tumblr.com/5c31f0e302cba59f845b623090d9352b/tumblr_inline_nxdk92Wcd01t4qra9_540.jpg" data-orig-height="1536" data-orig-width="1024"></figure>
 

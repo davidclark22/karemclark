@@ -19,7 +19,7 @@ tags:
 - motherhood
 - mama
 - maternidad
-tumblr_url: https://karemclark.tumblr.com/post/175766658711/hotcakes-de-avena
+tumblr_url: https://karemclark.com/post/175766658711/hotcakes-de-avena
 ---
 <figure data-orig-width="5184" data-orig-height="3456" class="tmblr-full"><img src="https://64.media.tumblr.com/c19f5de88b4235913567412db21be2e9/tumblr_inline_pbomz0bkvA1t4qra9_540.jpg" alt="image" data-orig-width="5184" data-orig-height="3456"></figure>
 

@@ -3,7 +3,7 @@ layout: post
 title: Winter Love!
 date: '2015-11-29T00:06:13-06:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/134176653846/winter-love
+tumblr_url: https://karemclark.com/post/134176653846/winter-love
 ---
 Oh Beautiful winter! It has arrived; this is my favorite season, because I live for coats, tights, sweaters and boots. &nbsp;I enjoy dressing up myself, but the only thing I enjoy better than that is dressing up my little doll! She is wearing a trench coat we discovered at baby gap originally mark as $58 but it was on the sale rack and the store had extra 40% off and we ended up just paying only $10 for it. &nbsp;It was an amazing deal and that’s why Gap is one of my favorite stores! &nbsp;Her tights are from Old Navy, they have the cutest tights I had found for a great price. &nbsp;Burgundy is my absolute favorite color for fall and winter, so of course this year I had to get Lauren some pieces of this color. &nbsp;And finally desert boots! I talked about them in my last post; they are so versatile and comfortable. &nbsp;I own a pair of them and I can combine them with so many things. I got them at Osh Kosh store for an amazing deal as well! &nbsp;All of these pieces are classic and they are things that are always in style and in colors you can combine with a lot of outfits. &nbsp;I hope this post inspires you a little bit when you shop for your little ones! &nbsp;
 

@@ -13,7 +13,7 @@ tags:
 - hm
 - marshalls
 - prep
-tumblr_url: https://karemclark.tumblr.com/post/106687369991/ootd-whatiwore-winter-lds-desertboots-preppy
+tumblr_url: https://karemclark.com/post/106687369991/ootd-whatiwore-winter-lds-desertboots-preppy
 ---
  ![](/tumblr_files/tumblr_nhfobxA2i41u2lcj1o1_640.jpg)  
 

@@ -10,7 +10,7 @@ tags:
 - shorthair
 - instadaily
 - fashionblogger
-tumblr_url: https://karemclark.tumblr.com/post/116220920601/absolutely-loving-my-haircut-haircut
+tumblr_url: https://karemclark.com/post/116220920601/absolutely-loving-my-haircut-haircut
 ---
  ![](/tumblr_files/tumblr_nmpgrdcizn1u2lcj1o1_640.jpg)  
 

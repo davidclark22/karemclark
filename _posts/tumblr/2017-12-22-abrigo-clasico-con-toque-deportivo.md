@@ -5,7 +5,7 @@ date: '2017-12-22T23:59:37-06:00'
 tags:
 - fashion style momstyle mom estilo moda tips blog blogger fashionblog blogdemoda
   comodo simple minimal minimalist minimalista minimalism mini
-tumblr_url: https://karemclark.tumblr.com/post/168846202256/abrigo-clasico-con-toque-deportivo
+tumblr_url: https://karemclark.com/post/168846202256/abrigo-clasico-con-toque-deportivo
 ---
 <figure class="tmblr-full" data-orig-height="3264" data-orig-width="2448"><img src="https://64.media.tumblr.com/65e5d242e9818f8dad84542e51e7c40b/tumblr_inline_p1egebF7aT1t4qra9_540.jpg" data-orig-height="3264" data-orig-width="2448"></figure>
 

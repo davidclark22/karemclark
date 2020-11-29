@@ -3,7 +3,7 @@ layout: post
 title: SIMPICITY
 date: '2017-08-24T22:13:05-05:00'
 tags: []
-tumblr_url: https://karemclark.tumblr.com/post/164582680176/simpicity
+tumblr_url: https://karemclark.com/post/164582680176/simpicity
 ---
 <figure class="tmblr-full" data-orig-height="5184" data-orig-width="3456"><img src="https://64.media.tumblr.com/c326143f2ff3ae6a609e049ff0647a33/tumblr_inline_ov80r2neO71t4qra9_540.jpg" data-orig-height="5184" data-orig-width="3456"></figure>
 

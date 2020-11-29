@@ -22,7 +22,7 @@ tags:
 - lifestyle
 - shoes
 - black shoes
-tumblr_url: https://karemclark.tumblr.com/post/162771513761/shirt-dress
+tumblr_url: https://karemclark.com/post/162771513761/shirt-dress
 ---
 <figure class="tmblr-full" data-orig-height="810" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/abc6166220cd6653cfc107c92a20609d/tumblr_inline_ost2wpnVXS1t4qra9_540.jpg"><img src="https://64.media.tumblr.com/5df87916c47ade8a2e0579adc3afa1e8/tumblr_inline_ov9w5rmBKJ1t4qra9_540.jpg" data-orig-height="810" data-orig-width="540" data-orig-src="https://64.media.tumblr.com/abc6166220cd6653cfc107c92a20609d/tumblr_inline_ost2wpnVXS1t4qra9_540.jpg"></figure>
 

@@ -18,7 +18,7 @@ tags:
 - pregnancy
 - marshalls
 - minimal
-tumblr_url: https://karemclark.tumblr.com/post/133782324701/today-begins-the-last-month-i-cant-wait-to-meet
+tumblr_url: https://karemclark.com/post/133782324701/today-begins-the-last-month-i-cant-wait-to-meet
 ---
  ![](/tumblr_files/tumblr_ny9aeeIenP1u2lcj1o1_1280.jpg)  
 

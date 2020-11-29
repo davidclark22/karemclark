@@ -6,7 +6,7 @@ tags:
 - hats
 - jcrew
 - hm
-tumblr_url: https://karemclark.tumblr.com/post/113813763776/i-love-that-she-has-her-own-personality-one-of
+tumblr_url: https://karemclark.com/post/113813763776/i-love-that-she-has-her-own-personality-one-of
 ---
  ![](/tumblr_files/tumblr_nlbpcdYfJt1u2lcj1o1_640.jpg)  
  ![](/tumblr_files/tumblr_nlbpcdYfJt1u2lcj1o2_r1_1280.jpg)  

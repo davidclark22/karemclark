@@ -10,7 +10,7 @@ tags:
 - ootd
 - inspiration
 - ideas
-tumblr_url: https://karemclark.tumblr.com/post/133113298291/oshkosh-new-obsession
+tumblr_url: https://karemclark.com/post/133113298291/oshkosh-new-obsession
 ---
 <figure data-orig-width="3318" data-orig-height="2212" class="tmblr-full"><img src="https://64.media.tumblr.com/29f5fe7d6be51211c008f0d60ee87a9b/tumblr_inline_nxqk4dkBuN1t4qra9_540.jpg" alt="image" data-orig-width="3318" data-orig-height="2212"></figure>
 
