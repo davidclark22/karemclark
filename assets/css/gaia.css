@@ -95,6 +95,10 @@ h6 a,
   font-size: 18px;
   margin-bottom: 30px;
 }
+.content-blog img {
+  max-width: 100%;
+  height: auto;
+}
 
 h1, .h1 {
   font-size: 3em;

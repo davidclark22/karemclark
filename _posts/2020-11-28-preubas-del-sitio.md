@@ -13,7 +13,7 @@ Mamá de tres o cualquier número de hijos, tanto amor, tanta responsabilidad, t
 
 Y constantemente me pregunto si estoy siendo una buena madre.&nbsp;
 
-<img src="{{'/assets/img/karemblog.jpg' | relative_url}}" style="max-width:100%;height:auto;">
+<img src="{{'/assets/img/karemblog.jpg' | relative_url}}">
 
 Constantemente me pregunto si estoy creando los lazos necesarios para cubrir las necesidades emocionales de mis hijos.&nbsp;
 
