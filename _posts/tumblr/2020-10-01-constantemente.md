@@ -14,6 +14,7 @@ tags:
 - momlife
 - momproblems
 tumblr_url: https://karemclark.com/post/630810486496264192/constantemente
+redirect_from: /post/630810486496264192/constantemente
 ---
 <figure data-orig-width="2832" data-orig-height="4256" class="tmblr-full"><img src="https://64.media.tumblr.com/940f447fc51c7f40df671976a0af0a60/2587222ce1a5c067-a6/s540x810/eb0e35e45a3df627e61789aaa69ad84eb8ad2a04.jpg" alt="image" data-orig-width="2832" data-orig-height="4256"></figure>
 
